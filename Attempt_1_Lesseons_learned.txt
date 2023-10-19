@@ -1,0 +1,9 @@
+Lessons learned
+
+1. Learn Built-In Methods: Familiarize yourself with Python's built-in methods like .items() for efficient dictionary manipulation.
+
+2. Practice Immediately: After learning a new method or function, practice using it at least twice before adding it to your notes.
+
+3. Efficiency Matters: Prioritize efficient methods over manual iteration for common tasks like dictionary manipulation.
+
+4. Balanced Approach: Maintain a balance between independent problem-solving and leveraging available resources, such as community knowledge and best practices.
